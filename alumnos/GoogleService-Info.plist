@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>394777243805-jramf4sgf9br15do5ql9l4nig5938mjb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.394777243805-jramf4sgf9br15do5ql9l4nig5938mjb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBtp1wOh7Ww3acgq1QDqtR4PZIYtGi2fKE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>394777243805</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>utng.edu.mx.alumnos</string>
+	<key>PROJECT_ID</key>
+	<string>alumnos-41f6c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>alumnos-41f6c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:394777243805:ios:face8b1bcd559bd5</string>
+	<key>DATABASE_URL</key>
+	<string>https://alumnos-41f6c.firebaseio.com</string>
+</dict>
+</plist>
